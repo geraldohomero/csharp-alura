@@ -5,7 +5,7 @@ class Programa
     {
         Console.WriteLine("Projeto 7 - Condicionais");
 
-        int idadeJoao = 17;
+        int idadeJoao = 16;
         int pessoasComJoao = 2;
 
         Console.WriteLine("João tem " + idadeJoao);
