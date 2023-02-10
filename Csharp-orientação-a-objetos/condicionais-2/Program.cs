@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+class Programa
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Olá, mundo");
+        Console.WriteLine("Tecle enter para fechar ...");
+        Console.ReadLine();
+    }
+}
