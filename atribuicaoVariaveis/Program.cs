@@ -9,6 +9,8 @@ class Program
         int idadeAna = idade;
         Console.WriteLine(idadeAna);
 
+        int idade = 25;
+
         Console.WriteLine("Tecle ENTER para fechar ...");
         Console.ReadLine();
     }
