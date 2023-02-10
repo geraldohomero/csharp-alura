@@ -7,17 +7,17 @@ class Programa
 
         int idadeJoao = 17;
         int pessoasComJoao = 2;
-        
+
         Console.WriteLine("João tem " + idadeJoao);
         Console.WriteLine("Ele está com " + pessoasComJoao + " pessoas");
 
-        if(idadeJoao >= 18)
+        if (idadeJoao >= 18)
         {
             Console.WriteLine("Pode entrar!");
         }
         else
         {
-            if(pessoasComJoao > 0)
+            if (pessoasComJoao > 0)
             {
                 Console.WriteLine("Ele está acompanhado. Pode entrar!");
             }
@@ -25,7 +25,7 @@ class Programa
             {
                 Console.WriteLine("Não pode entrar!");
             }
-        
+
         }
 
         Console.WriteLine("Tecle enter para fechar ...");
