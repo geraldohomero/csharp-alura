@@ -14,8 +14,8 @@ class Program
         letra = (char)(65 + 1); //ASCII Table
         Console.WriteLine(letra);
 
-        string primeiraFrase = "Baum di mais";
-        Console.WriteLine(primeiraFrase);
+        string primeiraFrase = "Baum di mais ";
+        Console.WriteLine(primeiraFrase + 2023);
 
         Console.WriteLine("Tecle ENTER para fechar ...");
         Console.ReadLine();
