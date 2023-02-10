@@ -17,6 +17,16 @@ class Program
         string primeiraFrase = "Baum di mais ";
         Console.WriteLine(primeiraFrase + 2023);
 
+        string vazia = "";
+        Console.WriteLine(vazia); //string pode ser vazia, mas o char não
+
+        string listaCursos = @"Cursos disponíveis: 
+        - Python
+        - C#
+        - Java
+        - JavaScript";
+        Console.WriteLine(listaCursos);
+
         Console.WriteLine("Tecle ENTER para fechar ...");
         Console.ReadLine();
     }    
