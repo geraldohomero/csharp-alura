@@ -5,11 +5,15 @@ class Programa
     {
         Console.WriteLine("Projeto 7 - Condicionais");
 
-        int idadeJoao = 91;
+        int idadeJoao = 17;
         
-        if(idadeJoao >=18)
+        if(idadeJoao >= 18)
         {
             Console.WriteLine("Pode entrar!");
+        }
+        else
+        {
+            Console.WriteLine("Não pode entrar!");
         }
 
         Console.WriteLine("Tecle enter para fechar ...");
