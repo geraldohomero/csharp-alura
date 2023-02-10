@@ -1,5 +1,4 @@
-﻿using Internal;
-using System;
+﻿using System;
 class Programa
 {
     static void Main(string[] args)
@@ -11,7 +10,7 @@ class Programa
         salarioInteiro = (int)salario; //int só trabalha com até 32bites
         Console.WriteLine(salarioInteiro);
 
-        int x = 2000000000000000000;
+        int x = 2000000;
         Console.WriteLine(x);
 
         long y = 200000000000000000;
