@@ -14,3 +14,20 @@ class Programa
         }
     }
 }
+
+// OU
+
+/*
+using System;
+
+class Programa
+{
+    static void Main(String args[])
+    {
+        for (int i = 3; i < 100; i += 3 )
+        {
+            Console.WriteLine(i);
+        }
+    }
+}
+*/
