@@ -7,6 +7,7 @@ class Programa
         float pontoFlutuante = 3.14f;
         Console.WriteLine(pontoFlutuante);
 
+
         double salario = 3000.10;
         int valor = (int) salario;
         Console.WriteLine(valor);
