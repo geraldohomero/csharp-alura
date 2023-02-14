@@ -1,0 +1,15 @@
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/bin/Debug/net7.0/Csharp
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/bin/Debug/net7.0/Csharp.deps.json
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/bin/Debug/net7.0/Csharp.runtimeconfig.json
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/bin/Debug/net7.0/Csharp.dll
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/bin/Debug/net7.0/Csharp.pdb
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/obj/Debug/net7.0/Csharp.csproj.AssemblyReference.cache
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/obj/Debug/net7.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/obj/Debug/net7.0/Csharp.AssemblyInfoInputs.cache
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/obj/Debug/net7.0/Csharp.AssemblyInfo.cs
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/obj/Debug/net7.0/Csharp.csproj.CoreCompileInputs.cache
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/obj/Debug/net7.0/Csharp.dll
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/obj/Debug/net7.0/refint/Csharp.dll
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/obj/Debug/net7.0/Csharp.pdb
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/obj/Debug/net7.0/Csharp.genruntimeconfig.cache
+/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/1-ola-mundo/obj/Debug/net7.0/ref/Csharp.dll
