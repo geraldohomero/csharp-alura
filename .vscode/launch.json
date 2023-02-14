@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Csharp-orientação-a-objetos/calculaPoupanca2/bin/Debug/net7.0/calculaPoupanca2.dll",
+            "program": "${workspaceFolder}/ola-mundo/bin/Debug/net6.0/Csharp.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Csharp-orientação-a-objetos/calculaPoupanca2",
+            "cwd": "${workspaceFolder}/ola-mundo",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
