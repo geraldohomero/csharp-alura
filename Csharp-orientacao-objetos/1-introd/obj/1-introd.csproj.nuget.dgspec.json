@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientacao-objetos/1-intro/1-intro.csproj": {}
+    "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientacao-objetos/1-introd/1-introd.csproj": {}
   },
   "projects": {
-    "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientacao-objetos/1-intro/1-intro.csproj": {
+    "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientacao-objetos/1-introd/1-introd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientacao-objetos/1-intro/1-intro.csproj",
-        "projectName": "1-intro",
-        "projectPath": "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientacao-objetos/1-intro/1-intro.csproj",
+        "projectUniqueName": "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientacao-objetos/1-introd/1-introd.csproj",
+        "projectName": "1-introd",
+        "projectPath": "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientacao-objetos/1-introd/1-introd.csproj",
         "packagesPath": "/home/geraldohomero/.nuget/packages/",
-        "outputPath": "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientacao-objetos/1-intro/obj/",
+        "outputPath": "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientacao-objetos/1-introd/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/geraldohomero/.nuget/NuGet/NuGet.Config"
