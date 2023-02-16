@@ -28,7 +28,7 @@ class Programa
         }
         else
         //{
-            Console.WriteLine("Não pode entrar!"); //pode retirar as chaves caso tenha somente uma linha de código dentro desse escopo
+            Console.WriteLine("Não pode entrar!");    //pode retirar as chaves caso tenha somente uma linha de código dentro desse escopo
         //}
 
         Console.WriteLine("Tecle enter para fechar ...");
