@@ -21,7 +21,6 @@ class Programa
 
         float altura = 1.77f;
         Console.WriteLine(altura);
-
         Console.WriteLine("Tecle enter para fechar ...");
         Console.ReadLine();
     }
