@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientacao-objetos/1-introd/1-introd.csproj",
-      "projectName": "1-introd",
-      "projectPath": "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientacao-objetos/1-introd/1-introd.csproj",
+      "projectUniqueName": "/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/byteBank.csproj",
+      "projectName": "byteBank",
+      "projectPath": "/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/byteBank.csproj",
       "packagesPath": "/home/geraldohomero/.nuget/packages/",
-      "outputPath": "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientacao-objetos/1-introd/obj/",
+      "outputPath": "/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/geraldohomero/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }
