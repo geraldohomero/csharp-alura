@@ -1,0 +1,15 @@
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/bin/Debug/net7.0/byteBank
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/bin/Debug/net7.0/byteBank.deps.json
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/bin/Debug/net7.0/byteBank.runtimeconfig.json
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/bin/Debug/net7.0/byteBank.dll
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/bin/Debug/net7.0/byteBank.pdb
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/obj/Debug/net7.0/byteBank.csproj.AssemblyReference.cache
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/obj/Debug/net7.0/byteBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/obj/Debug/net7.0/byteBank.AssemblyInfoInputs.cache
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/obj/Debug/net7.0/byteBank.AssemblyInfo.cs
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/obj/Debug/net7.0/byteBank.csproj.CoreCompileInputs.cache
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/obj/Debug/net7.0/byteBank.dll
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/obj/Debug/net7.0/refint/byteBank.dll
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/obj/Debug/net7.0/byteBank.pdb
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/obj/Debug/net7.0/byteBank.genruntimeconfig.cache
+/home/geraldohomero/Documentos/Github/csharp-alura/2-csharp-orientacao-objetos/byteBank/obj/Debug/net7.0/ref/byteBank.dll
