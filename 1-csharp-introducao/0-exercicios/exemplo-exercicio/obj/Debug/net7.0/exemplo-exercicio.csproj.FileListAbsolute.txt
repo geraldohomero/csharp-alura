@@ -1,0 +1,15 @@
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/bin/Debug/net7.0/exemplo-exercicio
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/bin/Debug/net7.0/exemplo-exercicio.deps.json
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/bin/Debug/net7.0/exemplo-exercicio.runtimeconfig.json
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/bin/Debug/net7.0/exemplo-exercicio.dll
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/bin/Debug/net7.0/exemplo-exercicio.pdb
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/obj/Debug/net7.0/exemplo-exercicio.csproj.AssemblyReference.cache
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/obj/Debug/net7.0/exemplo-exercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/obj/Debug/net7.0/exemplo-exercicio.AssemblyInfoInputs.cache
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/obj/Debug/net7.0/exemplo-exercicio.AssemblyInfo.cs
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/obj/Debug/net7.0/exemplo-exercicio.csproj.CoreCompileInputs.cache
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/obj/Debug/net7.0/exemplo-exercicio.dll
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/obj/Debug/net7.0/refint/exemplo-exercicio.dll
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/obj/Debug/net7.0/exemplo-exercicio.pdb
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/obj/Debug/net7.0/exemplo-exercicio.genruntimeconfig.cache
+/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/obj/Debug/net7.0/ref/exemplo-exercicio.dll

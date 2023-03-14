@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EmUmxDlsADGRU9oA8SAPJowvVZI2QYfRIJRyeUN4cN1vtqm80qsJTV3o10MGnL90VCe5/FFr5nBOBYNeDo+RrQ==",
+  "dgSpecHash": "sb2IvmLA1qPjlD66FcnZbD+E/sDuQVzU3/MuEvApTzvil2tucrTc4tmkcifDN7cz2KaPBC04TZLpbPw6gy1qYw==",
   "success": true,
-  "projectFilePath": "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/exemplo-exercicio/exemplo-exercicio.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/exemplo-exercicio.csproj",
+  "expectedPackageFiles": [
+    "/home/geraldohomero/.nuget/packages/microsoft.netcore.app.ref/7.0.3/microsoft.netcore.app.ref.7.0.3.nupkg.sha512",
+    "/home/geraldohomero/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512",
+    "/home/geraldohomero/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.3/microsoft.netcore.app.host.linux-x64.7.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/exemplo-exercicio/exemplo-exercicio.csproj": {}
+    "/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/exemplo-exercicio.csproj": {}
   },
   "projects": {
-    "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/exemplo-exercicio/exemplo-exercicio.csproj": {
+    "/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/exemplo-exercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/exemplo-exercicio/exemplo-exercicio.csproj",
+        "projectUniqueName": "/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/exemplo-exercicio.csproj",
         "projectName": "exemplo-exercicio",
-        "projectPath": "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/exemplo-exercicio/exemplo-exercicio.csproj",
+        "projectPath": "/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/exemplo-exercicio.csproj",
         "packagesPath": "/home/geraldohomero/.nuget/packages/",
-        "outputPath": "/home/geraldohomero/Documentos/Github/csharp-alura/Csharp-orientação-a-objetos/exemplo-exercicio/obj/",
+        "outputPath": "/home/geraldohomero/Documentos/Github/csharp-alura/1-csharp-introducao/0-exercicios/exemplo-exercicio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/geraldohomero/.nuget/NuGet/NuGet.Config"
@@ -48,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.3, 7.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.3, 7.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.3, 7.0.3]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
