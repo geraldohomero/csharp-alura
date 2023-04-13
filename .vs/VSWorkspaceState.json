@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Csharp-orientação-a-objetos",
+    "\\Csharp-orientação-a-objetos\\condicionais",
+    "\\Csharp-orientação-a-objetos\\condicionais-2\\condicionais-2"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Csharp-orientação-a-objetos\\condicionais\\condicionais.csproj",
   "PreviewInSolutionExplorer": false
 }

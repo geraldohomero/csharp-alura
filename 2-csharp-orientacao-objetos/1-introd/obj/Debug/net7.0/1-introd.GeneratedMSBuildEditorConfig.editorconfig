@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = investimentoLongoPrazo
-build_property.ProjectDir = c:\Users\geral\OneDrive\Documentos\Github\csharp-alura\1-csharp-introducao\7-investimentoLongoPrazo\
+build_property.RootNamespace = _1_introd
+build_property.ProjectDir = c:\Users\geral\OneDrive\Documentos\Github\csharp-alura\2-csharp-orientacao-objetos\1-introd\
